@@ -5,7 +5,7 @@ import SearchBar from "../components/SearchBar";
 export default function Page() {
   return (
     <div>
-      <div>Welcome to the Home Page</div>
+      {/* <div>Welcome to the Home Page</div> */}
       <SearchBar />
       <BusinessList />
     </div>
